@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NeuroLyze-Website/static/css/main.073c9b0a.css",
+    "main.js": "/NeuroLyze-Website/static/js/main.e2763cf9.js",
+    "static/js/787.0aa46fa6.chunk.js": "/NeuroLyze-Website/static/js/787.0aa46fa6.chunk.js",
+    "static/media/logo.svg": "/NeuroLyze-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NeuroLyze-Website/index.html",
+    "main.073c9b0a.css.map": "/NeuroLyze-Website/static/css/main.073c9b0a.css.map",
+    "main.e2763cf9.js.map": "/NeuroLyze-Website/static/js/main.e2763cf9.js.map",
+    "787.0aa46fa6.chunk.js.map": "/NeuroLyze-Website/static/js/787.0aa46fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e2763cf9.js"
+  ]
+}
